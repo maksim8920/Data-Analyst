@@ -7,5 +7,5 @@
 | [Прогнозирование оттока клиентов](ML) | Составление модели прогнозирования оттока клиентов, кластеризация клиентов| *pandas*, *seaborn*, *matplotlib*, *sklearn* |
 | [SQL](SQL) | Написание SQL запросов| *sqlalchemy* |                                  
 | [A/B Тест](AB_Test) | Оценка корректности проведения и результатов АБ теста| *pandas*, *numpy*, *matplotlib*, *math*, *plotly*, *scipy* |
-| [Анализ бизнес показателей](Analys_business_indicators) | Расчет ключевых бизнес показателей: DAU, WAU, MAU, Retention Rate, LTV, ROMI| *pandas*, *seaborn*, *matplotlib* |
+| [Анализ бизнес показателей](Analys_business_indicators) | Расчет ключевых бизнес показателей: DAU, WAU, MAU, Retention Rate, LTV, ROMI. В зависимости от устройства входа и рекламного источника| *pandas*, *seaborn*, *matplotlib* |
 | [Анализ поведения пользователей приложения](User_behavior_analysis) | Разделение пользователей на группы в зависимости от выполняемых действий и ключевых метрик. Проверка статистических гипотез| *pandas*, *seaborn*, *matplotlib*, *numpy*, *sklearn*, *scipy*, *math* |
