@@ -4,5 +4,6 @@
 
  Название проекта | Описание проекта | Используемые библиотека
 :-- | :--- | :---
-Прогнозирование оттока клиентов | Gefverbherjvbwerhfbjew | ewbjhhwebffhwebh
+Прогнозирование
+ оттока клиентов | Gefverbherjvbwerhfbjew | ewbjhhwebffhwebh
                                   
